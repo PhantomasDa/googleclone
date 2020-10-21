@@ -6,7 +6,7 @@ html {
     background: #f2f2f2;
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 97%;
     height: 40px;
   }
   a{
@@ -174,8 +174,10 @@ nav{
   .menu-pais{
     padding-top: 20px;  }
   .menu-pais{
+    font-size: 13px;
+    color: rgba(0,0,0,.54);
     background: #f2f2f2;
-    height: 35px;
+    height: 25px;
     width: 100%;
     display: flex;
     position: relative;
@@ -185,13 +187,14 @@ nav{
   .menu-footer{
     background: #f2f2f2;
     height: 35px;
-    width: 100%;
+    width: 102%;
     align-items: center;
     justify-content: space-between;
     display: flex;
     position: relative;
     flex-wrap: wrap;
     border-top: 1px solid #e4e4e4;
+    font-size: 13px;
   }
   .menu-footer-L{
     margin-left: 15px; 
