@@ -1,13 +1,12 @@
 html {
     min-height: 100%;
-    position: relative;
   }
   
   footer {
     background: #f2f2f2;
     position: absolute;
     bottom: 0;
-    width: 103%;
+    width: 100%;
     height: 40px;
   }
   a{
@@ -173,18 +172,14 @@ nav{
     cursor: pointer;
   }
   .menu-pais{
-    padding-top: 10px;  }
+    padding-top: 20px;  }
   .menu-pais{
-    font-size: 15px;
-    color: rgba(0,0,0,.54);
-    margin-left: 30px; 
-    text-align: left;
     background: #f2f2f2;
-    border-top: 1px solid #e4e4e4;
     height: 35px;
     width: 100%;
     display: flex;
     position: relative;
+    padding-left: 30px;
     border-top: 1px solid #e4e4e4;
   }
   .menu-footer{
